@@ -3,7 +3,7 @@ from datetime import datetime
 
 adres = "accounts.csv"
 
-# :pushpin: Dosya açma fonksiyonu (varsa okuma, yoksa oluşturma)
+# :Dosya açma
 def DosyaAc(adres):
     if not os.path.exists(adres):
         with open(adres, "w", encoding="UTF-8") as dosya:
