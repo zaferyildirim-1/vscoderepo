@@ -43,6 +43,5 @@ Değişikliklerinizi yapın ve commit edin (git commit -m 'Yeni özellik eklendi
 git push ile değişikliklerinizi gönderin
 Bir pull request oluşturun
 :scroll: Lisans
-Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
 
 Message cohort-11-class-chat
